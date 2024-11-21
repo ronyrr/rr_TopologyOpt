@@ -2,9 +2,9 @@
 
 The TopologyOPT documentation site. You will find information, mathematical background and features for the three methods implemented:
 
-*   Solid Isotropic Material with Penalisation (SIMP)
-*   Bi-directional Evolutionary Structural Optimisation (BESO)
-*   Level set method
+*   [Solid Isotropic Material with Penalisation (SIMP)](1simp.md)
+*   [Bi-directional Evolutionary Structural Optimisation (BESO)](2beso.md)
+*   [Level set method](3levelset.md#method)
 
 ## Mathematical problem
 

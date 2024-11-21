@@ -1,5 +1,15 @@
 site_name: TopologyOPT
 site_url: https://imperialcollegelondon.github.io/myproject
+
+nav:
+  - index.md
+  - Documentation:
+    - Documentation/index.md
+    - Documentation/1simp.md
+    - Documentation/2beso.md
+    - Documentation/3levelset.md
+  - about.md
+
 theme:
   name: material
   palette:
