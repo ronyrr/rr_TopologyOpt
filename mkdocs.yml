@@ -1,10 +1,10 @@
-site_name: My Project
+site_name: TopologyOPT
 site_url: https://imperialcollegelondon.github.io/myproject
 theme:
   name: material
   palette:
     scheme: default # or slate for dark-mode
-    primary: custom
+    primary: cyan
     accent: custom
 
   font:
